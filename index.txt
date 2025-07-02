@@ -4,3 +4,4 @@ Los pasos del desarrollo de Software, en el modelo visto en clases(cascada) son:
 3. Implementación, se desarrollan las funcionalidades del programa.
 4. Testing, se asegura que todo funcione correctamente.
 5. Instalación y Mantenimiento, por último se instala el programa y se le va haciendo un Mantenimiento.
+parcial avanzado
